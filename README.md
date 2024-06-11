@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="left">Hi 👋, I'm Deanna</h1>
 
-<!--
-**itsdeannat/itsdeannat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a technical writer with experience in using docs-as-code and topic-based authoring approaches to writing and managing documentation.
 
-Here are some ideas to get you started:
+Before I became a technical writer, I taught developmental writing at various colleges in Ohio. And before that, I studied linguistics for six years. My work as a Technical Writer blends my years of experience as an English teacher, working with learners of all ages, and an interest in programming!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">About me</h2>
+
+- 🌱 Currently learning: how to build documentation sites with Sphinx and RST
+- 🤝 I’m currently working on: building awesome templates for documenting OSS with [The Good Docs Project](https://thegooddocsproject.dev/)
+- 💬 Ask me about: docs-as-code, DITA, transitioning into tech, teaching technical skills
+- 📫 How to reach me: [@itsdeannat](https://www.twitter.com/itsdeannat) on Twitter
+- ⚡ Fun fact: I play guitar! 🎸
+
