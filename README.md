@@ -9,6 +9,6 @@ Before I became a technical writer, I taught developmental writing at various co
 - 🌱 Currently learning: how to build REST APIs with Django and Swagger
 - 🤝 I’m currently working on: building awesome templates for documenting OSS with [The Good Docs Project](https://thegooddocsproject.dev/)
 - 💬 Ask me about: docs-as-code, DITA, transitioning into tech, teaching technical skills
-- 📫 How to reach me: [@itsdeannat](https://www.twitter.com/itsdeannat) on Twitter
+- 📫 How to reach me: ping me on [LinkedIn](https://www.linkedin.com/in/thompsdc)
 - ⚡ Fun fact: I play guitar! 🎸
 
