@@ -10,5 +10,5 @@ Before technical writing, I was a college English instructor, and before that, I
 - 🌱 Currently learning: Go, Model Context Protocol (MCP)
 - 🤝 Open source: Community Manager and Working Group Lead at [The Good Docs Project](https://www.thegooddocsproject.dev/)
 - 💬 Ask me about: API documentation, docs-as-code, building developer tooling, transitioning into tech
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/itsdeannat)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thompsdc)
 - ⚡ Fun fact: I play guitar! 🎸
