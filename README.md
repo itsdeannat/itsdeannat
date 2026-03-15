@@ -6,7 +6,7 @@ Before technical writing, I was a college English instructor, and before that, I
 
 <h2 align="left">About me</h2>
 
-- 🔨 Currently building: CLI tools for API documentation quality, including [SpecGate](https://github.com/itsdeannat/specgate-cli) — a Go-based CLI that enforces OpenAPI spec readiness
+- 🔨 Currently building: CLI tools for API documentation quality, including [SpecGate](https://github.com/itsdeannat/specgate-cli), a Go-based CLI that enforces OpenAPI spec readiness
 - 🌱 Currently learning: Go, Model Context Protocol (MCP)
 - 🤝 Open source: Community Manager and Working Group Lead at [The Good Docs Project](https://www.thegooddocsproject.dev/)
 - 💬 Ask me about: API documentation, docs-as-code, building developer tooling, transitioning into tech
