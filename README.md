@@ -9,7 +9,7 @@ Before technical writing, I was a college English instructor, and I studied ling
 <h2 align="left">About me</h2>
 
 - 🔨 Currently building: CLI tools for API documentation quality, including [SpecGate](https://github.com/itsdeannat/specgate-cli), a Go-based CLI that enforces OpenAPI spec readiness
-- 🛠️ Interested in: API documentation, docs-as-code, developer experience, documentation engineering, and technical workflow automation
+- 🛠️ Interested in: API documentation, docs-as-code, developer experience, documentation engineering, and documentation automation
 - 🌱 Currently learning about: Agentic workflows, CI/CD, Go
 - 🤝 Open source: Community Manager and Working Group Lead at [The Good Docs Project](https://www.thegooddocsproject.dev/)
 - 💬 Ask me about: API documentation, docs-as-code, developer tooling, technical writing, and making the transition from traditional documentation workflows to modern engineering workflows
