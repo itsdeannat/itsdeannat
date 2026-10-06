@@ -1,14 +1,17 @@
 <h1 align="left">Hi 👋, I'm Deanna</h1>
 
-I'm a senior technical writer with seven years of experience across the software education, cloud computing, and indirect tax industries. My work spans three areas: developer documentation, end-user documentation, and building tools and workflows that help writers and developers do their best work.
+I'm a senior technical writer with seven years of experience specializing in API and developer documentation, docs-as-code, and documentation tooling.
 
-Before technical writing, I was a college English instructor, and before that, I studied linguistics for six years. My background shapes how I think about communication, clarity, and teaching complex concepts to new audiences.
+My work sits at the intersection of technical writing, developer experience, and engineering workflows. I build tools and processes that help teams create, validate, and publish better documentation, including CLI tools, Git-based documentation workflows, and AI-assisted documentation systems.
+
+Before technical writing, I was a college English instructor, and I studied linguistics for six years. That background shapes how I approach documentation: understand the audience, make complex concepts clear, and design information that helps users accomplish their goals.
 
 <h2 align="left">About me</h2>
 
 - 🔨 Currently building: CLI tools for API documentation quality, including [SpecGate](https://github.com/itsdeannat/specgate-cli), a Go-based CLI that enforces OpenAPI spec readiness
-- 🌱 Currently learning: Go, Model Context Protocol (MCP)
+- 🛠️ Interested in: API documentation, docs-as-code, developer experience, documentation engineering, and technical workflow automation
+- 🌱 Currently learning about: Agentic workflows, CI/CD, Go
 - 🤝 Open source: Community Manager and Working Group Lead at [The Good Docs Project](https://www.thegooddocsproject.dev/)
-- 💬 Ask me about: API documentation, docs-as-code, building developer tooling, transitioning into tech
+- 💬 Ask me about: API documentation, docs-as-code, developer tooling, technical writing, and making the transition from traditional documentation workflows to modern engineering workflows
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thompsdc)
 - ⚡ Fun fact: I play guitar! 🎸
